@@ -6,9 +6,9 @@ color:
   saturation: 0.6829485753551126
   rhythmicContrast: 0.6351589779369533
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#2E9598'
+    - '#A8216B'
+    - '#F26A44'
+    - '#F7DB69'
+    - '#A4D1D2'
 name: UltraNerdMedia
