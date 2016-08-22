@@ -1,0 +1,14 @@
+layout_spectrum: 0.4972082341555506
+typography_spectrum: 0.6920194958802313
+color:
+  brandStrength: 0.19611169467680156
+  lightness: 0.9807934088166803
+  saturation: 0.6829485753551126
+  rhythmicContrast: 0.6351589779369533
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: UltraNerdMedia
