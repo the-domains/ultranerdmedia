@@ -1,4 +1,3 @@
-layout_spectrum: 0.4972082341555506
 typography_spectrum: 0.6920194958802313
 color:
   brandStrength: 0.19611169467680156
@@ -6,9 +5,11 @@ color:
   saturation: 0.6829485753551126
   rhythmicContrast: 0.6351589779369533
   brandColors:
-    - '#2E9598'
-    - '#A8216B'
-    - '#F26A44'
-    - '#F7DB69'
-    - '#A4D1D2'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.4972082341555506
 name: UltraNerdMedia
+description: 'Games, Fiction & More'
