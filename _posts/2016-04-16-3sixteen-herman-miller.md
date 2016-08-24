@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-22T17:29:59.650Z'
+datePublished: '2016-08-24T17:25:35.380Z'
 sourcePath: _posts/2016-04-16-3sixteen-herman-miller.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/design/3sixteen-herman-miller-custom-eames-lounge-chair-ottoman
-hasPage: false
+hasPage: true
 keywords:
   - 3sixteen
   - ottoman
@@ -18,7 +16,7 @@ keywords:
   - worn-in
 related: []
 author: []
-dateModified: '2016-08-22T17:29:58.664Z'
+dateModified: '2016-08-24T17:25:34.498Z'
 title: 3sixteen + Herman Miller
 app_links: []
 publisher:
@@ -36,6 +34,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: 3sixteen-herman-miller/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
