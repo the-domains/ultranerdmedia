@@ -16,5 +16,8 @@ navigation:
   - name: 3sixteen + Herman Miller
     id: 68b7b089-d2d3-4f21-bcc7-b8c0ec8e19c6
     type: content
+  - name: About Us
+    url: 'http:www.ultranerdmedia.com'
+    type: external
 title: All Your Nerds Belong to Us
 description: 'Games, Fiction & More'
